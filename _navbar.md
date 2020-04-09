@@ -1,3 +1,3 @@
 - Languages
-    - [English](/en-us/)
-    - [සිංහල](/si-lk/)
+    - [English](/en-us/home.md)
+    - [සිංහල](/si-lk/home.md)
